@@ -1,0 +1,16 @@
+{
+  "name": "100,000 $HAM",
+  "image": "https://toneskal241.pages.dev/Hams5135ter.png",
+  "attributes": [
+    {
+      "trait_type": "Value",
+      "value": "100,000"
+    },
+    {
+      "trait_type": "Type",
+      "value": "$HAM"
+    }
+  ],
+  "content_url": "https://hamvoucher.com",
+  "description": "Hamster Pre-Market. You will be able to exchange this collectible for a $HAM token."
+}
